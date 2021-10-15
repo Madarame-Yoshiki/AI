@@ -1,0 +1,25 @@
+# Explanation of modified points (required)
+
+
+# Discussion (if needed)
+
+
+# Comments (if needed)
+
+1.Used algorithm of this project
+It is simple search algorithm.
+
+2.Describe algorithm
+
+
+(1) Put the initial node into the open list.(Open list is non visited node)
+(2) Pop a node(x) a front of open list.(If open list is empty, it finishes.)
+(3) Get child nodes of x. Put x into the closed list.(closed list is visited node.)
+(4) Add pointers to x for items not included in the Closed List and add them to the openlist.
+(5) Return step2.
+
+
+3.Explain the meaning of result.
+
+ 
+Search algorithm is implemented by node expantion.
